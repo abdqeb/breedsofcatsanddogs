@@ -1,4 +1,4 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+# API for Final Project for AI course at McMaster University
 
 I copied this repo so I can deploy my 37 breeds of cats and dogs classifier. This starter should allow me to test snapping pictures of animals with my phone and testing them against my model.
 
