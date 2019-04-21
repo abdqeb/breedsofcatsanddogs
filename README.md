@@ -17,3 +17,6 @@ Paste the new IP address here: https://REPLACEME:8000/hub/login
 # How to Deploy your model
 https://course.fast.ai/deployment_render.html
 https://render.com/pricing
+
+# pkl file direct download link
+Is at the 12th line in the app/server.py script. Feel free to download and play around with!
